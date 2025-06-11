@@ -1,7 +1,9 @@
 ### Question
 https://www.youtube.com/watch?v=jHgqCpJNL28
 
-In this video, where did the car and bus almost collide?
+In this video, where did the car and bus almost collide? (Flag is a pin)
+
+
 
 The video showed a buses dashcam recording of a close call where two buses almost collided. From the video I was able to gather:
 -	The bus line was SBS Transport 
