@@ -1,5 +1,6 @@
 ### Question
 https://www.youtube.com/watch?v=jHgqCpJNL28
+
 In this video, where did the car and bus almost collide?
 
 The video showed a buses dashcam recording of a close call where two buses almost collided. From the video I was able to gather:
