@@ -1,5 +1,6 @@
 ### Question
 https://www.youtube.com/watch?v=NWQwx4-MeRg&t=65s
+
 When and where was the photo shown at 65-67 seconds in this video taken?
 
 ---------------------------------------
