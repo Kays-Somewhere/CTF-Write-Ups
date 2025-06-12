@@ -30,5 +30,5 @@ I then looked up variations of “San Juan de Malabo” intel I found a video of
 I located the complex on Google Earth and visually matched the photos to the location of the stage. Using the photos for the Ahorageg article, I looked at building behind the bounce house and matched the roof to get the best approx location. First attempt was correct.
 
 ### Answer
-answered with pin 
+3.737543 8.796535
 
