@@ -17,7 +17,8 @@ In GitHub, there were 3 repos, kodai-sn.github.io, practice, and fork-practice. 
 
 Looking up “Magneight Software” led to the company’s website at magneight.com. I entered the website as the flag, and it was correct.
 
-![image](https://github.com/user-attachments/assets/41183e36-ea91-4a71-a414-5a0a67bc4953)
+![Screenshot 2025-06-11 163342](https://github.com/user-attachments/assets/b57f9e82-efd7-4516-88e4-4af8e773b47f)
+
 
 ### Answer 
 Diver25{https://magneight.com}
