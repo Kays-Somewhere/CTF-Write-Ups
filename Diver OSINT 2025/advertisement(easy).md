@@ -15,4 +15,4 @@ Looking at the original image from the article, I zoomed in and found a grainy m
 ![Screenshot 2025-06-11 165129](https://github.com/user-attachments/assets/b8ed47a2-c676-4ed0-b04d-80e75ddc1a2c)
 
 ### Answer
-placed a pin
+59.9429242141309209, 30.278263023040964
