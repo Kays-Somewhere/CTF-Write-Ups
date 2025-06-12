@@ -2,7 +2,9 @@
 Answer with the ICAO code (4 letter code) of the airfield from which this helicopter departed.
 Flag Format: Diver25{RJTT} 
 
-![image](https://github.com/user-attachments/assets/0e779e43-7158-49f6-9ea3-6129ab0ed60b)
+![Screenshot 2025-06-11 164028](https://github.com/user-attachments/assets/23d9ced6-e3dd-46a3-8044-79ff94d0e091)
+
+-----------------------------------------------
 
 The link led to a Google Drive with a picture of the helicopter’s complete flight path, take off to landing. On the left there was flight information and a key on the right.
 
