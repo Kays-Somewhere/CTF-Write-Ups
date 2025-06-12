@@ -17,15 +17,15 @@ I looked up Malabo and found out that it is a city on an island in Guinea. Next,
 
   https://ahoraeg.com/cultura/2024/09/10/inicia-el-proyecto-talentopolis-en-el-barrio-san-juan-de-esta-ciudad-capital/
 
-![image](https://github.com/user-attachments/assets/94dca013-8af6-4b3c-b9d9-6c01eb039378)
-
-![image](https://github.com/user-attachments/assets/44bca75b-43f7-4c51-b9b6-6610c4e583d8)
+![Screenshot 2025-06-11 165551](https://github.com/user-attachments/assets/3fe6e132-65d4-43c0-b519-0e95a9993c2a)
+![Screenshot 2025-06-11 165612](https://github.com/user-attachments/assets/9c828960-6a9d-49e0-b6d9-6abdf1d8ce5e)
 
 I then looked up variations of “San Juan de Malabo” intel I found a video of an apartment complex that matched the photos titled “VIVIENDAS SOCIALES DE SAN JUAN MALABO”.
 
   https://www.youtube.com/watch?v=YVkiYkFndPE
 
-![image](https://github.com/user-attachments/assets/ee6a22a7-f56f-4af7-8d4d-191ac29ab587)
+![Screenshot 2025-06-11 165652](https://github.com/user-attachments/assets/c8aa7d9b-cf1b-49ce-8ce3-b9e38551d642)
+
 
 I located the complex on Google Earth and visually matched the photos to the location of the stage. Using the photos for the Ahorageg article, I looked at building behind the bounce house and matched the roof to get the best approx location. First attempt was correct.
 
