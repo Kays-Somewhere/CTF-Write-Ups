@@ -4,7 +4,7 @@ Flag Format: Diver25{1234.56} (Currency symbol or code not required)
 
 --------------------------------------------------
 
-This was the second to last question that I answered. At this point it was around 9:00 and I had been working non stop for 11 hours. This was reflected somewhat in my search and the flag answers.
+This was the second to last question that I answered. At this point it was around 9:00 pm with the CTF ending at 11:00 pm and I had been working non-stop for 11 hours. This was reflected somewhat in my search and the flag answers.
 
 After a quick search I found out the mayor of São Miguel do Guamá is Eduardo Sampaio Gomes Leite. I also learned that the city is located in Brazil.
 https://saomigueldoguama.pa.gov.br/o-governo/prefeito/
