@@ -10,7 +10,7 @@ I took a screen shot of the image and did a reverse image search on Google. Next
 
 After taking a break from this challenge, I check decide to check if AFP (the video maker) had archives of old photos. They did! I searched for “afghanistan ball” for all of 2009. I found the photo at the bottom of the results and hovered over photo for the flag.
 
-![image](https://github.com/user-attachments/assets/9fb97cad-059f-49f0-9616-a02f4f232e77)
+![Screenshot 2025-06-11 164546](https://github.com/user-attachments/assets/8ebbad2c-ef09-4e82-86bd-5224f56daecb)
 
 ### Answer 
 Photo link: https://www.afpforum.com/AFPForum/Search/Results.aspx?pn=1&smd=8&mui=3&q=5000470341098571077_0&fst=afghanistan+ball&fto=3&fsd=20090101&fed=20100331&t=2&fcn=AFG&cck=a72a9d#pn=1&smd=8&mui=3&q=5000470341098571077_0&fst=afghanistan+ball&fto=3&fsd=20090101&fed=20100331&t=2&fcn=AFG&cck=a72a9d
