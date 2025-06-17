@@ -4,9 +4,13 @@ Diver OSINT CTF is a international CFT challange out of Japan. The focus was on 
 
 https://ctfd.diverctf.org/
 
-## Solves
+## Stats
+Placing: 107th out of 668
 
-Solves:
+Solves: 8
+
+Catetgory Breakdown:
+
 | Name | Difficulty | Points | Solve Time |
 | --- | --- | --- | --- |
 | flight_from | Introduction | 100 | June 7th, 9:04:35 AM |
