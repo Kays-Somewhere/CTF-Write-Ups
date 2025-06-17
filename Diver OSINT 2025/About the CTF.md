@@ -2,9 +2,15 @@
 
 Diver OSINT CTF is a international CFT challange out of Japan. The focus was on finding flags only using the provided information and OSINT. The challanges ranged from easy to hard, 100 to 500 points. The challanges were open for 24 hours from 11:00 pm June 6th to 11:00 pm June 7th 2025 EST. They remain avaible to view at the time of writing (6/12/25) but no flags are able to be submitted.
 
-https://ctfd.diverctf.org/
+Link: https://ctfd.diverctf.org/
 
-## Stats
+# Links
+
+[Stats](#Stats)
+
+[Note](#Note)
+
+# Stats
 Placing: 107th out of 668
 
 Solves: 8
@@ -22,7 +28,7 @@ Breakdown:
 | expense | Medium | 499 | June 7th, 10:21:55 PM | 
 | ship | Introduction | 100 | June 7th, 10:37:27 PM | 
 
-### Note
+# Note
 
 This was my very first CTF and I got invited to participate by someone that I know. This was a lot of fun and I am very thankful that I got this chance to work with Byte Surfers! In the end, we placed 107th.
 
