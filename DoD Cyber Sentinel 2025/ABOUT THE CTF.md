@@ -4,11 +4,16 @@
 
 # Links
 [Stats](#Stats)
+
 [Solves](#Solves)
+
 [Notes](#Notes)
+
 [Permissions](#Permission)
 
 ## About 
+Username: Kay
+
 The focus was on finding 20 flags (+3 Bonus) in categories ranging from forensics, malware analysis, and recon. The challanges ranged 75 to 300 points. The challanges were open for 8 hours from 11:00 am to 7:00 pm on June 14th 2025 EST. At the time of writing (6/17/25) no questions were able to be viewed.
 
 CTF Portal- https://dodcybersentineljune2025.ctfd.io/
@@ -64,8 +69,6 @@ Solves:
 The graph above shows the number of points spent and earned over the course of the competition. The small 25 to 50 point drops show when points were spent on hints. The increases show when challanges were solved.
 
 ### Notes
-
-Username: Kay
 
 This was my first solo CTF! It was a challange but I enjoyed it. Over 6,000 people signed up and a litte over 2,000 earned points.
 
