@@ -27,13 +27,6 @@ Doing a quick reverse image search on the photo of the computer room I found the
 
 At this point in time I did not keep record of every step to find the coordinates. My history did not track every search I will be listing my general search and flow.
 
-Doing a quick reverse image search on the photo of the computer room I found the same photo in a reddit post.
-
-
-North Korea opens first Online Gaming Cafe: https://www.reddit.com/r/NorthKoreaPics/comments/1kelbad/north_korea_opens_first_online_gaming_cafe/
-
-![Screenshot 2025-06-14 135144](https://github.com/user-attachments/assets/0eaedec6-3262-4b3a-8513-550773894b0b)
-
 Using DuckDuckGo I did a quick search for:
 
 - "North Korea DPRK computer club" 
