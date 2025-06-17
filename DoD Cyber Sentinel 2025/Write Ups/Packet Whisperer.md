@@ -44,6 +44,8 @@ At this point in time, I asked ChatGPT for help:
 
 > ffuf -w /usr/share/seclists/Discovery/Web-Content/directory-list-2.3-medium.txt -u https://not-torbian.ethtrader-ai.com/FUZZ
 
+---
+
 ### Note
 Why where the first 4 commands wrong? I did not take to the time to fully understand or process what was required to run this tool. That is clearly reflected in my attempts.
 
@@ -54,6 +56,8 @@ ffuf requires that the word "FUZZ" is in the provided URL. This indicates where 
 Missing wordlist
 
 ffuf requires a wordlist to run.
+
+---
 
 Nothing came of these commands except for index.html. Going to https://not-torbian.ethtrader-ai.com/index.html brought up a new page.
 
