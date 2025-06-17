@@ -23,7 +23,7 @@ I downloaded, unzipped, and copied the file over to Kali. I ran strings and quic
 
 > strings hardcodedlies
 
-![Screenshot 2025-06-14 115751](https://github.com/user-attachments/assets/
+![Screenshot 2025-06-14 115751](https://github.com/user-attachments/assets/6b5a7111-175d-4809-8861-fba20cb3a05d)
 
 # Flag
 C1{h4rdc0ded_but_0verlooked}
