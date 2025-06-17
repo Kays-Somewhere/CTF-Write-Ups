@@ -52,6 +52,8 @@ Solves:
 
 ![Screenshot 2025-06-17 105655](https://github.com/user-attachments/assets/b887b559-5a5e-47c9-8e85-3a59960af13b)
 
+The graph above shows the number of points spent and earned over the course of the competition. The small 25 to 50 point drops show when points were spent on hints. The increases show when challanges were solved.
+
 ### Note
 
 Username: Kay
