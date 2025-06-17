@@ -7,14 +7,16 @@ https://ctfd.diverctf.org/
 ## Solves
 
 Solves:
-- flight_from (Introduction, 100): June 7th, 9:04:35 AM
-- louvre (Introduction, 176): June 7th, 9:42:40 AM
-- 00_engineer (Easy, 100): June 7th, 10:01:19 AM
-- advertisement (Easy, 100): June 7th, 12:10:42 PM
-- Afghanistan (Medium, 414): June 7th, 2:41:50 PM
-- Talentopolis (Medium, 472): June 7th, 4:49:42 PM
-- expense (Medium, 499): June 7th, 10:21:55 PM
-- ship (Introduction, 100): June 7th, 10:37:27 PM
+| Name | Difficulty | Points | Solve Time |
+| --- | --- | --- | --- |
+| flight_from | Introduction | 100 | June 7th, 9:04:35 AM |
+| louvre | Introduction | 176 | June 7th, 9:42:40 AM | 
+| 00_engineer | Easy | 100 | June 7th, 10:01:19 AM | 
+| advertisement | Easy | 100 | June 7th, 12:10:42 PM | 
+| Afghanistan | Medium | 414 | June 7th, 2:41:50 PM | 
+| Talentopolis | Medium | 472 | June 7th, 4:49:42 PM | 
+| expense | Medium | 499 | June 7th, 10:21:55 PM | 
+| ship | Introduction | 100 | June 7th, 10:37:27 PM | 
 
 ### Note
 
