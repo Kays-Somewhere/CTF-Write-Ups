@@ -9,7 +9,7 @@ Placing: 107th out of 668
 
 Solves: 8
 
-Catetgory Breakdown:
+Breakdown:
 
 | Name | Difficulty | Points | Solve Time |
 | --- | --- | --- | --- |
