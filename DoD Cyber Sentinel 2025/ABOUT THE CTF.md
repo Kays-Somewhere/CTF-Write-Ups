@@ -2,7 +2,7 @@
 
 "This DoD-sponsored competition is designed to identify individuals interested in pursuing a cybersecurity career with the DoD. Our mission is to find experienced and emerging cybersecurity job-seekers looking to advance their careers while safeguarding our nation’s critical, digital infrastructure." - https://www.correlation-one.com/dod-cyber-sentinel
 
-The focus was on finding a variety flags in categories ranging from forensics, malware analysis, and recon. The challanges ranged 75 to 300 points. The challanges were open for 8 hours from 11:00 am to 7:00 pm on June 14th 2025 EST. At the time of writing (6/15/25) no questions are able to be viewed.
+The focus was on finding a variety flags in categories ranging from forensics, malware analysis, and recon. The challanges ranged 75 to 300 points. The challanges were open for 8 hours from 11:00 am to 7:00 pm on June 14th 2025 EST. At the time of writing (6/17/25) no questions were able to be viewed.
 
 CTF Portal- https://dodcybersentineljune2025.ctfd.io/
 
@@ -12,6 +12,8 @@ Placing: 342nd out of 2152 (Based on Scoreboard of all users who earned 25 or mo
 Solves: 15
 
 Failed Solves: 5
+
+![Screenshot 2025-06-17 105638](https://github.com/user-attachments/assets/bfeb4b5a-bdee-4bba-8ee2-c945c63c9c61)
 
 Catetgory Breakdown:
 
@@ -48,8 +50,11 @@ Solves:
 | Listening Post | Forensics | 150 | 6:33:03 PM | 
 | Encoded Evidence | Malware/Reverse Engineering | 75 | 6:45:29 PM  | 
 
+![Screenshot 2025-06-17 105655](https://github.com/user-attachments/assets/b887b559-5a5e-47c9-8e85-3a59960af13b)
 
 ### Note
 
-This was my first solo CTF! It was a challange but I enjoyed it! Over 6,000 people signed up and a litte over 2,000 earned points.
+Username: Kay
+
+This was my first solo CTF! It was a challange but I enjoyed it. Over 6,000 people signed up and a litte over 2,000 earned points.
 
