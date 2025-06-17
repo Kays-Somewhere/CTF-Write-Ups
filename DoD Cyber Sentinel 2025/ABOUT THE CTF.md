@@ -2,7 +2,7 @@
 
 "This DoD-sponsored competition is designed to identify individuals interested in pursuing a cybersecurity career with the DoD. Our mission is to find experienced and emerging cybersecurity job-seekers looking to advance their careers while safeguarding our nation’s critical, digital infrastructure." - https://www.correlation-one.com/dod-cyber-sentinel
 
-The focus was on finding a variety flags in categories ranging from forensics, malware analysis, and recon. The challanges ranged 75 to 300 points. The challanges were open for 8 hours from 11:00 am to 7:00 pm on June 14th 2025 EST. At the time of writing (6/17/25) no questions were able to be viewed.
+The focus was on finding 20 flags (+3 Bonus) in categories ranging from forensics, malware analysis, and recon. The challanges ranged 75 to 300 points. The challanges were open for 8 hours from 11:00 am to 7:00 pm on June 14th 2025 EST. At the time of writing (6/17/25) no questions were able to be viewed.
 
 CTF Portal- https://dodcybersentineljune2025.ctfd.io/
 
@@ -54,9 +54,13 @@ Solves:
 
 The graph above shows the number of points spent and earned over the course of the competition. The small 25 to 50 point drops show when points were spent on hints. The increases show when challanges were solved.
 
-### Note
+### Notes
 
 Username: Kay
 
 This was my first solo CTF! It was a challange but I enjoyed it. Over 6,000 people signed up and a litte over 2,000 earned points.
+
+
+##### Pre-Competition Webinar Zoom Write up Permission
+16:11 "But you are permitted, after the competition, to share or publish competition material, so at the end feel free to share, write ups. This is all. After 7 o'clock for 7 o'clock. Please do not do this after 7 o'clock. You're welcome to publish it to Github. You're welcome to share it with each other in whatever capacity you'd like. We do want this to be an educational opportunity for others."
 
