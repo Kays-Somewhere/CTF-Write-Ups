@@ -15,7 +15,7 @@ Our team suspects that a Juche Jaguar developer accidentally left something inte
 https://juche.msoidentity.com/
 
 # Solve
-At this point I decided to taking a break from some of the harder questions and do something easy. I followed the provided link and it brought me to this website.
+At this point I decided to take a break from some of the harder questions and do something easy. I followed the provided link and it brought me to this website.
 
 ![Screenshot 2025-06-14 161737](https://github.com/user-attachments/assets/0e70c7dd-b475-4427-831f-7a98fa1b9ad0)
 
