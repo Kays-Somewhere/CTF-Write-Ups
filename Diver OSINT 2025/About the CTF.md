@@ -30,5 +30,5 @@ Breakdown:
 
 # Note
 
-This was my very first CTF and I got invited to participate by someone that I know. This was a lot of fun and I am very thankful that I got this chance to work with Byte Surfers! In the end, we placed 107th.
+This was my very first CTF and I was invited to participate by someone that I know. This was a lot of fun and I am very thankful that I had this chance to work with Byte Surfers! In the end, we placed 107th.
 
