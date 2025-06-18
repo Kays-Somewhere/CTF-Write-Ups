@@ -16,4 +16,4 @@ The first thing I did was look up the SBS Transport web site. I was looking for 
 
 Next, I went to Google Earth the looked-up STS Transport bus stops. I then clicked though different bus stops looking for ones that may match the video. I found one that was similar but was not an exact match.
 
-A team-mate ended up working on it and was able to narrow it down to two bus stops by checking where bus line 58 and 52 shared stops. Using a screen shot of the video and Google Earth Street View data from 2013, they where able to confirm without a doute the bus stop was correct. They submitted the flag. 
+A team-mate ended up working on it and was able to narrow it down to two bus stops by checking where bus line 58 and 52 shared stops. Using a screen shot of the video and Google Earth Street View data from 2013, they where able to confirm without a doubt the bus stop was correct. They submitted the flag. 
