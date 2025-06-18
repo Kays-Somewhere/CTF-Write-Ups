@@ -8,7 +8,7 @@ The video was a news piece done by AFP about Operation Khanjar that took place i
 
 I took a screen shot of the image and did a reverse image search on Google. Next, I checked the Internet Archive next for images from Afghanistan in 2009. Both did not yield results.
 
-After taking a break from this challenge, I check decide to check if AFP (the video maker) had archives of old photos. They did! I searched for “afghanistan ball” for all of 2009. I found the photo at the bottom of the results and hovered over photo for the flag.
+After taking a break from this challenge, I decided to check if AFP (the video maker) had archives of old photos. They did! I searched for “afghanistan ball” for all of 2009. I found the photo at the bottom of the results and hovered over photo for the flag.
 
 ![Screenshot 2025-06-11 164546](https://github.com/user-attachments/assets/8ebbad2c-ef09-4e82-86bd-5224f56daecb)
 
