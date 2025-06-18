@@ -13,7 +13,7 @@ https://saomigueldoguama.pa.gov.br/o-governo/prefeito/
 
 Knowing that almost all governments have one or more websites related to officials’ financial information, I asked ChatGPT where to look for Brazil’s financial information. The AI gave me three websites to check.
 
-Local governments in Brazil are required to have a transparency portal were general and financial information are accessible. The portal was linked directly on the local government’s site but the credit card information for 2025 was missing.
+Local governments in Brazil are required to have a transparency portal where general and financial information are accessible. The portal was linked directly on the local government’s site but the credit card information for 2025 was missing.
 
 https://saomigueldoguama.pa.gov.br/portal-da-transparencia/
 
