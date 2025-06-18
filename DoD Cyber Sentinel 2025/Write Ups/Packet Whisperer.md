@@ -13,7 +13,7 @@ Points: 75
 Missing the question but it was asking you to find the a username within a packet capture.
 
 # Solve
-Downloaded the provided login.pcap file and opened it in Wireshark. I then found a POST /login packet and right clicked on it. I chose "Follow" then "http stream" to follow all the data related to the login process.
+I downloaded the provided login.pcap file and opened it in Wireshark. I then found a POST /login packet and right clicked on it. I chose "Follow" then "http stream" to follow all the data related to the login process.
 
 ![Screenshot 2025-06-17 124001](https://github.com/user-attachments/assets/a2ea1638-b869-4a7e-a1e4-852f90767efc)
 
