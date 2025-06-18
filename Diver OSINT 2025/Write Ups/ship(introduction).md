@@ -12,9 +12,9 @@ After downloading the image, I brightened it up. I was quickly able to identify 
 
 Searching for “TK1-1401 7JVV”, I found that it is named SHINYO MARU and confirmed that it was a Japanese ship owned by Tokyo University by comparing photos. The only thing that was left was to find out what number does not change on the ship’s sale. 
 
-After a quick query to ChatGPT how "TK1-1401 7JVV" was structured and what would change about that number if sold to a foreign country, I had my answer. The ship’s Registration Number TK1-1401 and IRCS 7JVV both would change if sold to a foreign country. However, IMO does not change. 
+After a quick query to ChatGPT how "TK1-1401 7JVV" was structured and what would change about that number if sold to a foreign country, I had my answer. The ship’s Registration Number TK1-1401 and IRCS 7JVV both would change if sold to a foreign country. However, the ships identification number (IMO) does not change. 
 
-To get the Japanese name of the ship I set my search to Japan and clicked on a website in Japanese. The site gave the ship name and other information such as the IMO, confirmed by translating the site to English.
+To get the Japanese name of the ship I set my search to Japan and clicked on a ship information website in the Japanese language. The site gave the ship name and other information such as the IMO, confirmed by translating the site to English.
 
 ### Answer
 Diver25{神鷹丸_9767675}
