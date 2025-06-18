@@ -30,6 +30,7 @@ The first step was to run a Nmap scan to try and find a port to connect to. Runn
 Next, I tried connect via telnet and netcat. The connections were successful but they would not respond to any input.
 
 > telnet 34.85.185.78 8774
+
 > nc 34.85.185.78 8774
 
 ![Screenshot 2025-06-14 154203](https://github.com/user-attachments/assets/d579bc52-e8bb-4bc6-8c38-5e42e5edd203)
@@ -51,22 +52,35 @@ After inputting the Challange and hint to ChatGPT, it walked me though the next 
 First it had me create a text file called streams.txt
 
 > cat << EOF > streams.txt
+
 > juche
+
 > juche_jaguar
+
 > jaguar
+
 > power
+
 > stream
+
 > video
+
 > live
+
 > test
+
 > flag
+
 > EOF
 
 Next, it had me run a loop in the terminal that tried every word in the list created above. the goal was to see if there was any responses that would indicated that there was a connection or the word was right.
 
 > for stream in juche juche_jaguar jaguar power video stream test; do
+
 >     echo "Trying stream: $stream"
+
 >     ffprobe rtsp://34.85.185.78:8774/$stream
+
 > done
 
 After running the loop, I got error 404 for every attempted connection except for 1, stream.
@@ -78,6 +92,7 @@ I took the output and plugged it into ChatGPT to confirm that ‘stream’ was t
 In the loop above I tried to connect with ffprobe but the connection failed. I then tried vlc and ffplay.
 
 > vlc rtsp://34.85.185.78:8774/stream
+
 > ffplay rtsp://34.85.185.78:8774/stream
 
 ffplay was able to finally pull up the stream! It was a looping video of a man holding a piece of paper with the flag on it. 
