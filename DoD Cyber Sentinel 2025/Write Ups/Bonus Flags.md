@@ -49,4 +49,4 @@ Solve Time: 5:26:15 PM
 Filled out Post-Competition Survey and was give a flag at the end.
 
 #### Flag
-Flag Missing
+Flag Obtained and Not Recorded
