@@ -5,7 +5,7 @@ Flag Format: Diver25{YYYY/MM} (e.g. Diver25{2025/06})
 
 ---------------------------------------------------
 
-The first thing I did was translate and reverse image search this photo with my phone. Logo at the top of the page translated to “Mongolia Mail” and the text below it to “Bumba.Comprehensive.Reinforced”. The string at the bottom of the page calls this address 3-word address.
+The first thing I did was translate and reverse image search this photo with my phone. The logo at the top of the page translated to “Mongolia Mail” and the text below it to “Bumba.Comprehensive.Reinforced”. The string at the bottom of the page calls this address 3-word address.
 
 Checking Mongolia Mail’s website did not provide any new information and did not allow to me to search for this 3-word address. Searching for 3-word address led to a CNN article about the organization who runs this project. At the bottom of the page was the photo, uncropped. No other information was able to be gathered from this new photo however.
 
