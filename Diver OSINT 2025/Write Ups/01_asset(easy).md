@@ -3,7 +3,7 @@ Answer the asset number of the smartphone owned by the CEO of the company found 
 
 --------------------------------------------
 
-The first thing I checked was the company’s about page at https://magneight.com/about.html for information. There I found the CEO’s name, Mizuki Sekozaki. I tried searched for “Mizuki Sekozaki” and variations of it including the Japanese translation on DuckDuckGo and Google. I was not able to locate any information.
+The first thing I checked was the company’s about page at https://magneight.com/about.html for information. There I found the CEO’s name, Mizuki Sekozaki. I tried searching for “Mizuki Sekozaki” and variations of it including the Japanese translation on DuckDuckGo and Google. I was not able to locate any information.
 
 ![Screenshot 2025-06-11 163417](https://github.com/user-attachments/assets/f3e52bb8-7267-45f8-b6a3-546fb62966a8)
 
