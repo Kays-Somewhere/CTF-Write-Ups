@@ -67,7 +67,7 @@ flag
 EOF
 ```
 
-Next, it had me run a loop in the terminal that tried every word in the list created above. the goal was to see if there was any responses that would indicated that there was a connection or the word was right.
+Next, it had me run a loop in the terminal that tried every word in the list created above. the goal was to see if there were any responses that would indicated that there was a connection or the word was right.
 
 ```
 for stream in juche juche_jaguar jaguar power video stream test; do
