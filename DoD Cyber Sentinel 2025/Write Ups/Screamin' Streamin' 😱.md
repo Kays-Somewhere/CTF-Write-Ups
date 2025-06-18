@@ -68,10 +68,12 @@ EOF
 
 Next, it had me run a loop in the terminal that tried every word in the list created above. the goal was to see if there was any responses that would indicated that there was a connection or the word was right.
 
-> for stream in juche juche_jaguar jaguar power video stream test; do
->     echo "Trying stream: $stream"
->     ffprobe rtsp://34.85.185.78:8774/$stream
-> done
+```
+for stream in juche juche_jaguar jaguar power video stream test; do
+    echo "Trying stream: $stream"
+    ffprobe rtsp://34.85.185.78:8774/$stream
+done
+```
 
 After running the loop, I got error 404 for every attempted connection except for 1, stream.
 
