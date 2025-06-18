@@ -23,6 +23,7 @@ You will need to enumerate the stream name through some type of brute forcing. U
 The first step was to run a Nmap scan to try and find a port to connect to. Running the scans showed that port 8774/TCP was open but the service was unknown.
 
 > nmap -p 5000-10000 -T4 34.85.185.78
+
 > nmap -sV -p 8774 34.85.185.78
 
 ![Screenshot 2025-06-14 153739](https://github.com/user-attachments/assets/f2c77134-8b62-42ab-a164-8517824fdee9)
