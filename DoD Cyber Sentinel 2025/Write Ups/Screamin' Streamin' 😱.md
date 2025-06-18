@@ -15,6 +15,7 @@ We've received intel that Juche Jaguar has exposed a network stream on the host 
 Find the network stream and get the flag!
 
 Hint (-50 points)
+
 The open port uses RTSP. Once the port is found, you will need the correct stream name.
 
 You will need to enumerate the stream name through some type of brute forcing. Use tools like ffprobe to help find the correct stream name in order to connect to it with a tool such as VLC.
