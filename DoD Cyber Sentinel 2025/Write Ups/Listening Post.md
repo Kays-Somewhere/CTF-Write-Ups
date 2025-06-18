@@ -23,7 +23,7 @@ I had to consult Chatgpt heavily on this one from the very start as I have never
 
 Before starting any analysis, I did take a moment to listen to the .mp3 file before starting. My first thought was that it sounded like a dial up tone like the ones that old computers used to connect to the internet. 
 
-Write a prompt to ChatGPT asking what tools could run on Kali that would analyze the audio files, it suggested Audacity as its first chose. 
+I wrote a prompt to ChatGPT asking what tools could run on Kali that would analyze the audio files. It suggested Audacity as its first chose. 
 
 Downloading Audacity and inputting the file did not produce any immediately usable results except for a visual of the audio. However, I needed an output that gave me a list of numbers or visual highs and lows so I could manually type out 1s and 0s. Looking online for Audacity settings that would do this did not help ether, so I bought a hint. 
 
@@ -35,7 +35,7 @@ Maybe the beeping isn't just noise but actually has some meaning. Truthfully, it
 
 ---
 
-Inputting the hint into ChatGPT confirmed that the sound was a DTMF Sequence. This time it had me try multimon-ng and provided a command to try and decode the file.
+Inputting the hint into ChatGPT confirmed that the sound was a Dual-Tone Multi-Frequency (DTMF) which are tones that represent numbers on a phone keypad. This time it had me try multimon-ng and provided a command to try and decode the file.
 
 > multimon-ng -t wav -a DTMF radio.wav
 
@@ -66,7 +66,7 @@ My first attempt had an error near the end. I ended up with something that looke
 
 Not wanting to spend time typing out the 1s and 0s again, I asked ChatGPT to try and decode the text. I first prompted it to create a Python code that would take the input and remove the DTMF leaving only a string of 1s and 0s. At the time I did not chose to use any of the given scripts.
 
-Why? The output of SoX and multimon-ng resulted in the 1s and 0s each being on their own line. The provided scripts had me insert the output of 1s and 0s into the code and then run it. While I have coded in Python before I do not have experience using input that is hard coded to each be on their own line. I did not what to spend time changing the code or taking the output of SoX and multimon-ng and reformatting it. 
+Why? The output of SoX and multimon-ng resulted in the 1s and 0s each being on their own line. The provided scripts had me insert the output of 1s and 0s into the code and then run it. While I have coded in Python before I do not have experience using input that is hard coded to each be on their own line. I did not want to spend time changing the code or taking the output of SoX and multimon-ng and reformatting it. 
 
 Example taken from ChatGPT:
 
