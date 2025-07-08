@@ -34,6 +34,7 @@ To confirm that I had the correct flag, I checked the distance from Harrods to t
 
 
 # Flag
-Flag 1 (WRONG, Did not follow directions): C1{Parker's Jumeirah Lowndes Hotel} 
-Flag 2: C1{Parker's_Lowndes}
+C1{Parker's Jumeirah Lowndes Hotel} 
+
+#### C1{Parker's_Lowndes} (Correct)
 
