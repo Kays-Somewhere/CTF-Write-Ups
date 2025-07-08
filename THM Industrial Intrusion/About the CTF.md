@@ -30,7 +30,7 @@ Personnel Solves:
 | Challange | Catagory | Points |  
 | --- | --- | --- | 
 | Task 5- OSINT 1 | OSINT | 15 | 
-| Task 6- OSINT 2 | OSINT | 15 | 
+| Task 6- OSINT 2 | OSINT | 30 | 
 | Task 7- OSINT 3 | OSINT | 60 | 
 | Task 15- Chess Industry | boot2root | 7.5 (Only Got 1st Flag, Missing 2nd) |  
 
