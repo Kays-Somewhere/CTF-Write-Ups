@@ -44,8 +44,8 @@ Solves:
 | P5. Cooperation | Tutorial | 42 | July 2nd, 3:17:10 PM |
 | P6. Scenario | Tutorial | 1058 | July 2nd, 3:18:33 PM |
 | D1. Mystery Mail | Tier 1 | 100 | July 2nd, 3:41:24 PM |
-| D2. Not-so-Simple Mail Protocol  | Tier 1 |  | July 2nd, 4:39:53 PM |
-| D3. Ransom Wrangler | Tier 1 |  | July 2nd, 6:45:11 PM |
+| D2. Not-so-Simple Mail Protocol | Tier 1 | 100 | July 2nd, 4:39:53 PM |
+| D3. Ransom Wrangler | Tier 1 | 100 | July 2nd, 6:45:11 PM |
 | ??? | Tier 1 | ??? | ??? |
 | D5. Ahoy, PCAP'n!  | Tier 1 | 300 | July 4th, 4:24:20 PM |
 | D6. Smuggled away! | Tier 1 | 500 | July 7th, 11:24:23 AM |
