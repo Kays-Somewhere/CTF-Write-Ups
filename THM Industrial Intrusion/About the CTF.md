@@ -32,7 +32,13 @@ Personnel Solves:
 | Task 5- OSINT 1 | OSINT | 15 | 
 | Task 6- OSINT 2 | OSINT | 30 | 
 | Task 7- OSINT 3 | OSINT | 60 | 
-| Task 15- Chess Industry | boot2root | 7.5 (Only Got 1st Flag, Missing 2nd) |  
+| Task 15- Chess Industry | boot2root | 15* |  
+| Task 22- Rogue Poller | Networking | 15 |
+| Task 35- Uniterrupted Problem Supply | Web | 30** |
+
+*Only 7.5pts earned, only found 1 of 2 Flags
+
+**No points Earned, Flag not found
 
 # Notes
 
