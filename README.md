@@ -5,3 +5,9 @@
 
 #### DoD Cyber Sentinel Challenge: 6/14/25
 - Individual 8 hour CTF featuring different challenges
+
+#### Try Hack Me Industrial Intrusion: 6/27/25-6/29/25
+- Team based room inspired by idustrial infrastructure
+
+#### Target Cyber Defense Challenge (Tier 1): 7/1/25-7/31/25
+- Individual month long CTF playing the defender against an attacker stealing data
