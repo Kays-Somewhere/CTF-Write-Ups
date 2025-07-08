@@ -80,9 +80,13 @@ Hoping over to CyberChef, I verified that it was hexadecimal and that the flag w
 
 # Flag
 Thm{contact}
+
 Thm{github}
+
 Thm{stage0}
+
 Thm{uplink}
+
 #### THM{Su5sss} (Correct)
 
 
